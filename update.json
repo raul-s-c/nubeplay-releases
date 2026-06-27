@@ -1,7 +1,6 @@
-﻿{
+{
     "versionCode":  11,
     "versionName":  "2.0",
     "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.0-arm64.apk",
     "notes":  "Interfaz renovada con estilo mas limpio tipo Apple: nueva paleta, tarjetas redondeadas, ajustes por paneles y navegacion mas pulida."
 }
-

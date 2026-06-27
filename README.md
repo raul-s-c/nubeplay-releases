@@ -1,4 +1,4 @@
-﻿# NubePlay release channel
+# NubePlay release channel
 
 Public update channel for NubePlay.
 
