@@ -1,0 +1,7 @@
+﻿{
+    "versionCode":  10,
+    "versionName":  "1.9",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-1.9-arm64.apk",
+    "notes":  "Borrado multiple de seleccionados y actualizador integrado desde Ajustes."
+}
+
