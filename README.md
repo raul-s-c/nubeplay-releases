@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/update.json
 
 Latest APK:
 
-https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-1.9-arm64.apk
+https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.0-arm64.apk
