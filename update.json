@@ -2,6 +2,6 @@
     "versionCode":  12,
     "versionName":  "2.1",
     "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.1-arm64.apk",
-    "sha256":  "07c2468cb67a4286a3ca625c9f55d568f8b63fefa12fbb8f30ff8b83aacce546",
+    "sha256":  "efb3caf9b9528aa69baaa26d1e23ef7d77ef59f665ad155dad88a5d06d3b18e7",
     "notes":  "Corrige descargas duplicadas; audio localizable con Abrir carpeta; guarda y recupera el punto de reproduccion; permite pausar, continuar y cancelar descargas; verifica la integridad SHA-256 de futuras actualizaciones."
 }
