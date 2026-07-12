@@ -1,7 +1,7 @@
 {
-    "versionCode":  13,
-    "versionName":  "2.2",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.2-arm64.apk",
-    "sha256":  "fd6b5ff5a66b07da86fce2ccba48d43f47cc62e887be17eb5ea71836f3ff129f",
-    "notes":  "Revision integral profesional: biblioteca con resumen, busqueda y filtros; navegacion con contador de descargas; recuperacion de tareas interrumpidas; controles de pausa y cancelacion en notificaciones; cola mas clara; carpetas accesibles tambien desde listas; privacidad y version visibles; actualizaciones con notas y confirmacion."
+    "versionCode":  14,
+    "versionName":  "2.3",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.3-arm64.apk",
+    "sha256":  "bb465d158e132f9e5a538bda9bab1f06824abff454f6ad63bfffb3796a794834",
+    "notes":  "Integracion con Android Auto y Poweramp: audios nuevos en MP3 dentro de Music/NubePlay, videos en Movies/NubePlay y una carpeta publica por lista; Abrir carpeta lleva a la ubicacion real; migracion automatica de archivos locales antiguos; OneDrive se mantiene como respaldo."
 }
