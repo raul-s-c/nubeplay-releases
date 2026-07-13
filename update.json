@@ -1,7 +1,7 @@
 {
-    "versionCode":  17,
-    "versionName":  "2.6",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.6-arm64.apk",
-    "sha256":  "f7e5db981d5cefa4386611a5373f657513f664a4168f4f0f0550b5fc9120c1a3",
-    "notes":  "Motor autorreparable anti-challenge validado en Android."
+    "versionCode":  18,
+    "versionName":  "2.7",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.7-arm64.apk",
+    "sha256":  "2791a0ed84c31a94892384ff599dc2dc98380cedc06bb303ae74b2ee1a955184",
+    "notes":  "Reproductor nativo para Android Auto: biblioteca por audios sueltos y listas, orden estable, cola completa desde la pista elegida, busqueda por voz, controles del coche, foco de audio y marcadores en segundo plano. Ya no requiere Poweramp."
 }
