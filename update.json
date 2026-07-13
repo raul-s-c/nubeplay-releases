@@ -1,7 +1,7 @@
 {
-    "versionCode":  18,
-    "versionName":  "2.7",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.7-arm64.apk",
-    "sha256":  "a7873b8aacdd323bd718e0aa65a719fae109f5be3c9e897e7d604b468c06c0c0",
+    "versionCode":  19,
+    "versionName":  "2.7.1",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.7.1-arm64.apk",
+    "sha256":  "c88e60fdd794df7eebb07202819f079289991e2d8f1bcd20b2005e1d4ee67c44",
     "notes":  "Reproductor nativo para Android Auto: biblioteca por audios sueltos y listas, orden estable, cola completa desde la pista elegida, busqueda por voz, controles del coche, foco de audio y marcadores en segundo plano. Actualizador protegido contra manifiestos antiguos en cache. Ya no requiere Poweramp."
 }
