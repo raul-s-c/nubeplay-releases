@@ -1,7 +1,7 @@
 {
-    "versionCode":  10,
-    "versionName":  "0.3.2",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.3.2.apk",
-    "sha256":  "350675da834a788d61741bec49da4fc2d257e7d029ec894ccd3629f8d89e5b97",
-    "notes":  "Primera version viable: extrae audio real del video, trocea audio grande, transcribe con OpenAI, traduce con ML Kit, biblioteca ordenable y cancelacion limpia."
+    "versionCode":  11,
+    "versionName":  "0.4.0",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.4.0.apk",
+    "sha256":  "c8c918748521018d5e7bbb3b1b494e7c6fea256dd4c3f4bc270720872e9a1558",
+    "notes":  "Transcripcion japonesa local: Whisper se ejecuta en el movil, sin API, cuenta ni subida de audio. Descarga el modelo una vez desde Ajustes."
 }
