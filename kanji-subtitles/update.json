@@ -1,7 +1,7 @@
 {
-    "versionCode":  12,
-    "versionName":  "0.4.1",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.4.1.apk",
-    "sha256":  "d8e9a8c0928e6e73ebf019a7a202d460ef3f339b930bd50ed9952dc17166683c",
-    "notes":  "Corrige la descarga del modelo local: se ejecuta en primer plano, muestra errores y reanuda el archivo parcial en vez de empezar desde cero."
+    "versionCode":  13,
+    "versionName":  "0.4.2",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.4.2.apk",
+    "sha256":  "d21b0bd108eca9f5a63c6ac8b1937652c0206c5e34582c48632397c5a630242a",
+    "notes":  "Descarga del modelo corregida: reanuda donde se quedo, se ejecuta en primer plano y es compatible con Android 14 y 15."
 }
