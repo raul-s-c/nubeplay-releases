@@ -1,7 +1,7 @@
 {
-    "versionCode":  6,
-    "versionName":  "0.2.3",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.2.3.apk",
-    "sha256":  "d3a772e7658043af17e31967c9cafd0f321407a0b6e9b01fd1fe7a182d0c860d",
-    "notes":  "Actualizador lee update.json via GitHub API para evitar cache de raw, con MVP local de video, subtitulos, furigana y vocabulario."
+    "versionCode":  7,
+    "versionName":  "0.2.4",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.2.4.apk",
+    "sha256":  "1342e6f3cefb18bbb268e6034455e60d9dd825aa3eab423d80eda75e10cf300a",
+    "notes":  "Pantalla completa apaisada, progreso cancelable, busqueda de carpetas NubePlay, cajas semitransparentes y sincronizacion mas reactiva."
 }
