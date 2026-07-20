@@ -1,7 +1,7 @@
 {
-    "versionCode":  8,
-    "versionName":  "0.3.0",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.3.0.apk",
-    "sha256":  "56df5794382855b106932842fa396f349418d3ee410a39c8698519b69ee187b1",
-    "notes":  "UI tipo Language Reactor: tap en video muestra icono pantalla completa, texto en dos columnas en vertical, fix de crash al abrir medios, analisis real de pistas de subtitulos y traduccion ML Kit."
+    "versionCode":  9,
+    "versionName":  "0.3.1",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.3.1.apk",
+    "sha256":  "6e056349a10171daa74231c26505ef566083849ef08cc1145d43465f6d5b3455",
+    "notes":  "Transcripcion real desde audio/video con OpenAI API configurable en Ajustes, traduccion ML Kit y sin subtitulos inventados."
 }
