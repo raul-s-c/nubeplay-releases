@@ -1,7 +1,7 @@
 {
-    "versionCode":  19,
-    "versionName":  "0.7.0",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.7.0.apk",
-    "sha256":  "9563abe54fa6157ecdb970b04ca3b85ffd5a84ebb5fa46812853bf0f199f10ee",
-    "notes":  "Biblioteca ampliada con seleccionar todos y lista a pantalla completa. Vocabulario dinamico con frecuencia de terminos, gramatica, ejemplos reales y palabras guardadas."
+    "versionCode":  20,
+    "versionName":  "0.7.1",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.7.1.apk",
+    "sha256":  "a4211da7c52144ecee172ef01398525d9bd29998d9efab267ade6b17427d98e1",
+    "notes":  "Analisis estable en segundo plano: cada video usa trabajo y notificacion propios con progreso. Queue permite iniciar el video elegido y cancelar sin reencolarlo."
 }
