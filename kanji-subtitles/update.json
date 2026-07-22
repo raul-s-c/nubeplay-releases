@@ -1,7 +1,7 @@
 {
-    "versionCode":  14,
-    "versionName":  "0.5.0",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.5.0.apk",
-    "sha256":  "5dc29b6c82aa2dcb165965f87418e97e6cfd45c5c1209b21e48bcafc34324884",
-    "notes":  "Nueva Queue persistente: procesa videos uno a uno, muestra los cuatro pasos y el analisis local sigue en segundo plano con la pantalla apagada."
+    "versionCode":  15,
+    "versionName":  "0.5.1",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.5.1.apk",
+    "sha256":  "4012f8b1e0a1b8597c1430b5faaca5260e16468f9dda99b31b2ef9fa9b8baf7d",
+    "notes":  "Biblioteca, Queue y Reproductor separados: quita elementos sin borrar archivos, limpia pendientes y abre los videos ya procesados desde Reproductor."
 }
