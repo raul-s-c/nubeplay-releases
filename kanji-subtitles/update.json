@@ -1,7 +1,7 @@
 {
-    "versionCode":  13,
-    "versionName":  "0.4.2",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.4.2.apk",
-    "sha256":  "d21b0bd108eca9f5a63c6ac8b1937652c0206c5e34582c48632397c5a630242a",
-    "notes":  "Descarga del modelo corregida: reanuda donde se quedo, se ejecuta en primer plano y es compatible con Android 14 y 15."
+    "versionCode":  14,
+    "versionName":  "0.5.0",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.5.0.apk",
+    "sha256":  "5dc29b6c82aa2dcb165965f87418e97e6cfd45c5c1209b21e48bcafc34324884",
+    "notes":  "Nueva Queue persistente: procesa videos uno a uno, muestra los cuatro pasos y el analisis local sigue en segundo plano con la pantalla apagada."
 }
