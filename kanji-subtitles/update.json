@@ -1,7 +1,7 @@
 {
-    "versionCode":  17,
-    "versionName":  "0.6.1",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.6.1.apk",
-    "sha256":  "e2da3b3908ac4fe0df02970a0442719dedc951cb9390e5d9926ed1f48b83a095",
-    "notes":  "Biblioteca mejorada: selecciona una carpeta completa, marca varios videos y envialos juntos a Queue. Botones adaptados para no estrechar Buscar NubePlay."
+    "versionCode":  18,
+    "versionName":  "0.6.2",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.6.2.apk",
+    "sha256":  "9eb5d0c884ea4e782e992796ea2ef681b5f4371b646829214e22569b1d8298f6",
+    "notes":  "Reproductor: eliminacion definitiva opcional. Borra el archivo del movil, el registro de la app y sus subtitulos tras confirmacion de Android."
 }
