@@ -1,7 +1,7 @@
 {
-    "versionCode":  18,
-    "versionName":  "0.6.2",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.6.2.apk",
-    "sha256":  "9eb5d0c884ea4e782e992796ea2ef681b5f4371b646829214e22569b1d8298f6",
-    "notes":  "Reproductor: eliminacion definitiva opcional. Borra el archivo del movil, el registro de la app y sus subtitulos tras confirmacion de Android."
+    "versionCode":  19,
+    "versionName":  "0.7.0",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.7.0.apk",
+    "sha256":  "9563abe54fa6157ecdb970b04ca3b85ffd5a84ebb5fa46812853bf0f199f10ee",
+    "notes":  "Biblioteca ampliada con seleccionar todos y lista a pantalla completa. Vocabulario dinamico con frecuencia de terminos, gramatica, ejemplos reales y palabras guardadas."
 }
