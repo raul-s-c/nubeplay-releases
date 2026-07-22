@@ -1,7 +1,7 @@
 {
-    "versionCode":  21,
-    "versionName":  "0.7.2",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.7.2.apk",
-    "sha256":  "2e8fdcba1fba3e4f3f08043d17f60a4fac0239263d41453d5b96a9f3c4fb45b0",
-    "notes":  "Resultados exportados automaticamente a Descargas/Kanji Subtitles sin duplicar videos."
+    "versionCode":  22,
+    "versionName":  "0.8.0",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.8.0.apk",
+    "sha256":  "3148c867cff77e99b10e31b448321e612a0395764f77f6a15ed03c29599273b0",
+    "notes":  "Auditoria de robustez: cola serializada, recuperacion tras interrupciones, importacion idempotente y OTA reforzado."
 }
