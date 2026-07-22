@@ -1,7 +1,7 @@
 {
-    "versionCode":  15,
-    "versionName":  "0.5.1",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.5.1.apk",
-    "sha256":  "4012f8b1e0a1b8597c1430b5faaca5260e16468f9dda99b31b2ef9fa9b8baf7d",
-    "notes":  "Biblioteca, Queue y Reproductor separados: quita elementos sin borrar archivos, limpia pendientes y abre los videos ya procesados desde Reproductor."
+    "versionCode":  16,
+    "versionName":  "0.6.0",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.6.0.apk",
+    "sha256":  "b241787ed1cb3bb4cabc8b1b1e5c829e53366aadbab23bd49f6bdaf2c1fbb4d3",
+    "notes":  "Furigana local real: analiza cada palabra japonesa con diccionario incluido y muestra la lectura en hiragana sobre los kanji."
 }
