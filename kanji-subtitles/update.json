@@ -1,7 +1,7 @@
 {
-    "versionCode":  20,
-    "versionName":  "0.7.1",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.7.1.apk",
-    "sha256":  "a4211da7c52144ecee172ef01398525d9bd29998d9efab267ade6b17427d98e1",
-    "notes":  "Analisis estable en segundo plano: cada video usa trabajo y notificacion propios con progreso. Queue permite iniciar el video elegido y cancelar sin reencolarlo."
+    "versionCode":  21,
+    "versionName":  "0.7.2",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/kanji-subtitles/KanjiSubtitles-0.7.2.apk",
+    "sha256":  "2e8fdcba1fba3e4f3f08043d17f60a4fac0239263d41453d5b96a9f3c4fb45b0",
+    "notes":  "Resultados exportados automaticamente a Descargas/Kanji Subtitles sin duplicar videos."
 }
