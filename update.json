@@ -1,7 +1,7 @@
 {
-    "versionCode":  21,
-    "versionName":  "2.8.1",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.1-arm64.apk",
-    "sha256":  "32868824177a9aaa4eb39ab835d7a427d515a4635f10fa0746c5bec7ce8b2994",
-    "notes":  "Listas incrementales, reanudables y visibles pista a pista desde que termina el primer archivo. Las carpetas se crean al iniciar; Reintentar omite lo completado; los fallos parciales no bloquean las demas pistas; pausa y cancelacion son inmediatas; se evita duplicar descargas y se recuperan automaticamente archivos completos que hubieran quedado ocultos por una version anterior. Mejoras adicionales de OneDrive, Android Auto, almacenamiento, diagnosticos y persistencia."
+    "versionCode":  22,
+    "versionName":  "2.8.2",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.2-arm64.apk",
+    "sha256":  "482ed6d2a01cc220e4486fcfcdab798fc649a802055587e6e81e12bb7c8bca80",
+    "notes":  "Capa anti-duplicados: NubePlay reconoce enlaces equivalentes de YouTube, reutiliza trabajos ya en cola, evita repetir selecciones de playlist aunque cambie el orden y omite pistas que ya existen en la carpeta de destino. Tambien conserva compatibilidad con descargas antiguas."
 }
