@@ -1,7 +1,7 @@
 {
-    "versionCode":  19,
-    "versionName":  "2.7.1",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.7.1-arm64.apk",
-    "sha256":  "c88e60fdd794df7eebb07202819f079289991e2d8f1bcd20b2005e1d4ee67c44",
-    "notes":  "Reproductor nativo para Android Auto: biblioteca por audios sueltos y listas, orden estable, cola completa desde la pista elegida, busqueda por voz, controles del coche, foco de audio y marcadores en segundo plano. Actualizador protegido contra manifiestos antiguos en cache. Ya no requiere Poweramp."
+    "versionCode":  20,
+    "versionName":  "2.8",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8-arm64.apk",
+    "sha256":  "1fec43a8d32db2cea6078e5c790d2e2261f60ac884d769112e60a2e96d74844f",
+    "notes":  "Motor de listas completamente incremental y reanudable. Cada audio o video aparece en Biblioteca y se publica en Android, Android Auto y OneDrive al terminar, sin esperar al resto. Las carpetas se crean al iniciar; los fallos parciales no bloquean la lista; Reintentar omite lo ya descargado; pausa, cancelacion, reinicio del servicio, deduplicacion, almacenamiento y diagnosticos son mas robustos."
 }
