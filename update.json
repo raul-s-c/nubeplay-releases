@@ -1,7 +1,7 @@
 {
-    "versionCode":  20,
-    "versionName":  "2.8",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8-arm64.apk",
-    "sha256":  "1fec43a8d32db2cea6078e5c790d2e2261f60ac884d769112e60a2e96d74844f",
-    "notes":  "Motor de listas completamente incremental y reanudable. Cada audio o video aparece en Biblioteca y se publica en Android, Android Auto y OneDrive al terminar, sin esperar al resto. Las carpetas se crean al iniciar; los fallos parciales no bloquean la lista; Reintentar omite lo ya descargado; pausa, cancelacion, reinicio del servicio, deduplicacion, almacenamiento y diagnosticos son mas robustos."
+    "versionCode":  21,
+    "versionName":  "2.8.1",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.1-arm64.apk",
+    "sha256":  "32868824177a9aaa4eb39ab835d7a427d515a4635f10fa0746c5bec7ce8b2994",
+    "notes":  "Listas incrementales, reanudables y visibles pista a pista desde que termina el primer archivo. Las carpetas se crean al iniciar; Reintentar omite lo completado; los fallos parciales no bloquean las demas pistas; pausa y cancelacion son inmediatas; se evita duplicar descargas y se recuperan automaticamente archivos completos que hubieran quedado ocultos por una version anterior. Mejoras adicionales de OneDrive, Android Auto, almacenamiento, diagnosticos y persistencia."
 }
