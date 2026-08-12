@@ -1,7 +1,7 @@
 {
-    "versionCode":  22,
-    "versionName":  "2.8.2",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.2-arm64.apk",
-    "sha256":  "482ed6d2a01cc220e4486fcfcdab798fc649a802055587e6e81e12bb7c8bca80",
-    "notes":  "Capa anti-duplicados: NubePlay reconoce enlaces equivalentes de YouTube, reutiliza trabajos ya en cola, evita repetir selecciones de playlist aunque cambie el orden y omite pistas que ya existen en la carpeta de destino. Tambien conserva compatibilidad con descargas antiguas."
+    "versionCode":  23,
+    "versionName":  "2.8.3",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.3-arm64.apk",
+    "sha256":  "a4d2e18852a16b6f05ab2d5c405e5309202ec1fc94fb07526e6fb840f2d460ab",
+    "notes":  "Evita que la pantalla se apague mientras reproduces video dentro de NubePlay y libera el bloqueo al pausar, terminar, pasar a audio o salir del reproductor."
 }
