@@ -1,7 +1,7 @@
 {
-    "versionCode":  23,
-    "versionName":  "2.8.3",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.3-arm64.apk",
-    "sha256":  "a4d2e18852a16b6f05ab2d5c405e5309202ec1fc94fb07526e6fb840f2d460ab",
-    "notes":  "Evita que la pantalla se apague mientras reproduces video dentro de NubePlay y libera el bloqueo al pausar, terminar, pasar a audio o salir del reproductor."
+    "versionCode":  24,
+    "versionName":  "2.8.4",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.4-arm64.apk",
+    "sha256":  "7e7d2baf349dcb69830405d2456f19d9c2439708597c22d0f34f252c4f0ea71e",
+    "notes":  "Corrige la doble copia de videos: si el video ya se guardo correctamente en la carpeta conectada, NubePlay no crea otra copia publica. Tambien limpia de forma segura las copias publicas antiguas vinculadas. Los audios mantienen su copia indexada para Android Auto."
 }
