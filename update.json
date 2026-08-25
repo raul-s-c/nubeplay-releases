@@ -1,7 +1,7 @@
 {
-    "versionCode":  24,
-    "versionName":  "2.8.4",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.4-arm64.apk",
-    "sha256":  "7e7d2baf349dcb69830405d2456f19d9c2439708597c22d0f34f252c4f0ea71e",
-    "notes":  "Corrige la doble copia de videos: si el video ya se guardo correctamente en la carpeta conectada, NubePlay no crea otra copia publica. Tambien limpia de forma segura las copias publicas antiguas vinculadas. Los audios mantienen su copia indexada para Android Auto."
+    "versionCode":  25,
+    "versionName":  "2.8.5",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.5-arm64.apk",
+    "sha256":  "4325ee882309cd4890411c30b571022c15548ef27bd89dc581c48d4f0923a4aa",
+    "notes":  "Anade listas persistentes de audio: guarda una playlist de YouTube, comprueba nuevas canciones, evita bajar las ya existentes y publica MP3 en Music/NubePlay/Listas de reproduccion para Android Auto y reproductores locales."
 }
