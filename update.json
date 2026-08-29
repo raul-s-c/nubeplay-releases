@@ -1,7 +1,7 @@
 {
-    "versionCode":  25,
-    "versionName":  "2.8.5",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.5-arm64.apk",
-    "sha256":  "4325ee882309cd4890411c30b571022c15548ef27bd89dc581c48d4f0923a4aa",
-    "notes":  "Anade listas persistentes de audio: guarda una playlist de YouTube, comprueba nuevas canciones, evita bajar las ya existentes y publica MP3 en Music/NubePlay/Listas de reproduccion para Android Auto y reproductores locales."
+    "versionCode":  26,
+    "versionName":  "2.8.6",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.6-arm64.apk",
+    "sha256":  "2565ea7a745f16fc8c57c591987f9b17fd4b161a236b8e3fd34301a59539a4ce",
+    "notes":  "Mejora la exploracion de listas: permite abrir una lista dentro de NubePlay, elegir desde que video o audio empezar, ver historial de elementos vistos, reproducir en cola continua sin repetir el mismo elemento y borrar la copia local del elemento actual desde el reproductor conservando OneDrive cuando exista."
 }
