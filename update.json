@@ -1,7 +1,7 @@
 {
-    "versionCode":  26,
-    "versionName":  "2.8.6",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.6-arm64.apk",
-    "sha256":  "2565ea7a745f16fc8c57c591987f9b17fd4b161a236b8e3fd34301a59539a4ce",
-    "notes":  "Mejora la exploracion de listas: permite abrir una lista dentro de NubePlay, elegir desde que video o audio empezar, ver historial de elementos vistos, reproducir en cola continua sin repetir el mismo elemento y borrar la copia local del elemento actual desde el reproductor conservando OneDrive cuando exista."
+    "versionCode":  27,
+    "versionName":  "2.8.7",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.7-arm64.apk",
+    "sha256":  "51f1709abbc2eb05219bdb07046cc0c3b472f96d6a1c628de23c0398af2e5862",
+    "notes":  "Ajusta la tarjeta de listas para pantallas moviles: reparte las acciones en dos filas y evita que \u0027Eliminar lista\u0027 quede cortado o aplastado."
 }
