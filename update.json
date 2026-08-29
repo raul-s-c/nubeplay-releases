@@ -1,7 +1,7 @@
 {
-    "versionCode":  28,
-    "versionName":  "2.8.8",
-    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.8-arm64.apk",
-    "sha256":  "a51331065ac7b1fa12053dadf6810d232b7f845e08ef4a9d5e4b987c2e0c213a",
-    "notes":  "Corrige el historial de vistos: guardar posicion, abrir listas o enviarlas a otra app ya no marca todo como visto. NubePlay marca visto solo al terminar un elemento. Anade botones para marcar o desmarcar cada video/audio y desmarcar todo desde el explorador y el reproductor."
+    "versionCode":  29,
+    "versionName":  "2.8.9",
+    "apkUrl":  "https://raw.githubusercontent.com/raul-s-c/nubeplay-releases/main/NubePlay-2.8.9-arm64.apk",
+    "sha256":  "2c15daad48d31cadd9e0c231db00f6af205401dab692b831d860f60f744bf768",
+    "notes":  "Anade refuerzo de volumen en el reproductor interno: boton Volumen, activacion persistente y presets Suave/Fuerte/Max usando LoudnessEnhancer de Android. Fuerza el volumen interno del reproductor al 100%."
 }
